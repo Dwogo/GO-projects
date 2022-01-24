@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	for ; ; {
+	for {
 		fmt.Println("🔥CPU🔥")
 		time.Sleep(500 * time.Millisecond)
 	}
